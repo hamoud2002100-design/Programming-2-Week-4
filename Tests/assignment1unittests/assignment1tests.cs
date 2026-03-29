@@ -16,6 +16,7 @@ namespace Assignment1.Tests
             CultureInfo.CurrentCulture = CultureInfo.InvariantCulture;
         }
 
+        //test
         [Test]
         public void StudentConstructor_ShouldInitializeProperties()
         {
